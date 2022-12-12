@@ -9,6 +9,7 @@ Tecnologias escolhidas:
 - Front-end: React
 - Back-end: c#.Net
 - Banco de Dados: MongoDB
+
 Alunos envolvidos:
 - ESTER CASSIA CHILAVER
 - GABRIELA TAMURA MAKIBARA
